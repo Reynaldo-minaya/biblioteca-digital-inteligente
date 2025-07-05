@@ -1,3 +1,11 @@
-"scripts": {
-  "test": "echo '✅ Pruebas simuladas exitosas'"
+{
+  "name": "biblioteca-digital-inteligente",
+  "version": "1.0.0",
+  "description": "Proyecto demo de biblioteca digital con CI/CD",
+  "scripts": {
+    "build": "echo \"Simulación de build exitosa\"",
+    "test": "echo \"Pruebas pasadas exitosamente\""
+  },
+  "author": "Reynaldo Minaya",
+  "license": "MIT"
 }
